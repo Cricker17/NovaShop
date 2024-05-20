@@ -1,0 +1,7 @@
+.carousel-item {
+    transition: transform 0.5s ease-in;
+    -webkit-transition: transform 0.5s ease-in;
+    -moz-transition: transform 0.5s ease-in;
+    -ms-transition: transform 0.5s ease-in;
+    -o-transition: transform 0.5s ease-in;
+}
